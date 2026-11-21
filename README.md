@@ -1,3 +1,7 @@
+[![make.fun · sokoban-solver-01-run-20261121](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/sibetzy07/sokoban-solver-01-run-20261121-rektc/rank.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/sibetzy07/sokoban-solver-01-run-20261121-rektc/reward.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+
 # Sokoban solver
 
 Entry for the make.fun bounty **"Build the best Sokoban solver, 21 November 2026"**
@@ -48,3 +52,6 @@ MAKEFUN_INPUT_DIR=<input-dir> MAKEFUN_OUTPUT_DIR=<output-dir> node main.ts
 
 Reads `<input-dir>/<id>/level.txt` for each instance and writes
 `<output-dir>/<id>/solution.txt` (moves `u/d/l/r`, uppercase marks a push).
+
+---
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
